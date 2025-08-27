@@ -1,2 +1,27 @@
+ 🖥️ Repositório de Estudos em Linguagem C
 
+📚 **Objetivo:** Este repositório contém exercícios e pequenos projetos desenvolvidos em **linguagem C**, com o objetivo de praticar lógica de programação e aperfeiçoar conhecimentos na linguagem.
+
+
+## ✅ O que você vai encontrar aqui
+- Programas simples para iniciantes
+- Estruturas de repetição e condicionais
+- Manipulação de strings e arrays
+- Estruturas (struct), ponteiros e arquivos
+- Projetos práticos para treinar lógica
+
+
+ 🚀 Como compilar e executar os códigos
+
+Para compilar os programas em C, é necessário ter um compilador instalado, como **GCC**.
+
+**No Linux / MacOS**
+
+gcc nome_do_arquivo.c -o nome_do_programa
+./nome_do_programa
+
+**No Windows (usando MinGW)**
+
+gcc nome_do_arquivo.c -o nome_do_programa.exe
+nome_do_programa.exe
 
